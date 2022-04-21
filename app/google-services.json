@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "227423794517",
+    "project_id": "finans-1101f",
+    "storage_bucket": "finans-1101f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:227423794517:android:898e562d4aef09e0ddebdc",
+        "android_client_info": {
+          "package_name": "com.example.kursuch"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "227423794517-p9er90aajf9bdqskp5p5f1ahpf95d41k.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.kursuch",
+            "certificate_hash": "b1eaf20c5a3d83d0ee517455e19fc1b81fa6972a"
+          }
+        },
+        {
+          "client_id": "227423794517-ni1na36r4tcji16f5craugg6bdsu9jrk.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAx3Ld5SIY17k-me7UTdom7KF4bjQiDDII"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "227423794517-ni1na36r4tcji16f5craugg6bdsu9jrk.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
